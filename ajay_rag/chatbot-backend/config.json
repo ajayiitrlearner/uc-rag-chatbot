@@ -1,0 +1,8 @@
+{
+    "OPENAI_API_KEY":"sk-svcacct-ZetAOmdgzRgOStDbanmdT3BlbkFJnpU5Wm8KyopN6CWZSl8o",
+    "OPENAI_ORG_ID": "org-pJfrRXXvyJI2HR8PKCZAvvl0",
+    "SEARCH_ENDPOINT" : "https://ragucsearch.search.windows.net",
+    "SEARCH_INDEX_NAME" : "ragucindex-kb",
+    "MEMORY_INDEX_NAME": "ragucindex-memory",
+    "SEARCH_ADMIN_KEY" : "lfuCEizvbRMaXAYhD2ENwjbqfPKzkHBgWlErhsQsJ3AzSeDlip7r"
+}
