@@ -28,7 +28,7 @@ The backend utilizes Azure Functions, with the main entry point being the Functi
 
 ## Architecture
 
-https://raw.githubusercontent.com/ajayiitrlearner/uc-rag-chatbot/main/ajay_rag/chatbot-backend/architecture.png
+![Architecture Diagram](https://raw.githubusercontent.com/ajayiitrlearner/uc-rag-chatbot/main/ajay_rag/chatbot-backend/architecture.png)
 
 The chatbot system is composed of several key components, divided into two main categories: **Indexing** and **Retrieval**.
 
@@ -107,7 +107,7 @@ Retrieval involves querying indexed data to find relevant information and genera
 
 ### Prompt Engineering
 
-https://raw.githubusercontent.com/ajayiitrlearner/uc-rag-chatbot/main/ajay_rag/chatbot-backend/prompts.png
+![ Prompting](https://raw.githubusercontent.com/ajayiitrlearner/uc-rag-chatbot/main/ajay_rag/chatbot-backend/prompts.png)
 
 Prompts for GPT-4-o are structured as follows:
 
